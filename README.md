@@ -22,5 +22,4 @@ The activities are organized by folders according to each exercise or topic cove
 
 Example:
 
-web1-exercise
-└── basic-classes-and-methods
+web1-exercise/basic-classes-and-methods
