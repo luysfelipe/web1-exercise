@@ -18,9 +18,7 @@ public class Pessoa {
         this.telefone = telefone;
     }
 
-    public String getNome(){
-        return nome;
-    }
+    public String getNome(){ return nome; }
 
     public String getTelefone() {
         return telefone;
